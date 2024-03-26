@@ -11,7 +11,7 @@ For an issue create a branch and once you fixed the issue upload the new files i
 
 To be able to create things join the "Code Editor" Team.
 
-**DO NOT FORK THIS! THIS IS UNDER MY COPYRIGHT. I WILL NOT STAND FOR ANY FORKING OF THIS REPO.**
+**DO NOT FORK THIS! THIS IS UNDER TECHITALL SERVICES COPYRIGHT. I WILL NOT STAND FOR ANY FORKING OF THIS REPO.**
 
 Creaded by: **TechItAll** (Ben)
 
